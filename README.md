@@ -106,8 +106,7 @@ Languages = ["C", "C++", "Python", "HTML", "CSS"]
 [![@Sreejita2407's Holopin board](https://holopin.me/2409)](https://holopin.io/@2409)
 
 
-[![Sreejita's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sreejita2407&theme=react-dark)](https://github.com/Sreejita2407)
-
+[![Sreejita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sreejita2407&theme=dracula)](https://github.com/Sreejita2407/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sreejita2407&theme=juicyfresh)](https://github.com/Sreejita2407/github-profile-trophy)
   
